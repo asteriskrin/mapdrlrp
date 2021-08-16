@@ -14,6 +14,7 @@ For example:
 ```js
 ["Alhambra", 1834.545776, -1682.349975],
 ```
+3. Make pull request
 
 ## Future Development
 This map is going to be paired with <a href="https://care.directionplay.com">care.directionplay.com</a> using SSO and player can add more location easily, just click on map and write the name of location.
